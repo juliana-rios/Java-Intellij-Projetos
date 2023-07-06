@@ -23,7 +23,7 @@ public class EX9 {
             calculo = (72.7 *altura) - 58;
         }
 
-        System.out.printf("Seu peso ideal é: %.2f", calculo);
+        System.out.printf("Seu peso ideal é: %.2f" + calculo);
     }
 }
 
